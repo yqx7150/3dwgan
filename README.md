@@ -152,7 +152,7 @@ The fusion algorithm uses:
 
 ## Data Format
 
-- Input data:  `.mat` files containing 3D volume data
+- Input data: `.mat` files containing 3D volume data
 - Focus positions: z=35, z=40, z=60, z=65, z=70
 - SNR levels: 0, 15, 20, 25, 30, 35
 
